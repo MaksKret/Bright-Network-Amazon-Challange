@@ -1,1 +1,1 @@
-# amazon Coding Challange with Bright Network Internship
+# Amazon Coding Challange with Bright Network
